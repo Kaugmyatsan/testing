@@ -1,0 +1,12 @@
+switch
+
+
+1.https://mikrotik.com/product/RB260GS
+
+2.https://mikrotik.com/product/CSS326-24G-2SplusRM
+
+3.https://mikrotik.com/product/CRS326-24G-2SplusRM
+
+4.https://mikrotik.com/product/CRS125-24G-1S-2HnD-IN
+
+5.https://mikrotik.com/product/crs326_24s_2q_rm

@@ -1,0 +1,14 @@
+d-link switch
+
+1.https://www.dlink.com/en/products/des-1005c-5-port-10100-mbps-unmanaged-desktop-switch
+
+
+2.https://www.dlink.com/en/products/des-1005d-5-port-10100base-t-unmanaged-switch
+
+3.https://www.dlink.com/en/products/des-1008a-8-port-10100-switch
+
+4.https://www.dlink.com/en/products/des-1024a-24-port-10100-mbps-unmanaged-desktop-switch
+
+5.https://www.dlink.com/en/products/go-sw-5e-5-port-fast-ethernet-unmanaged-desktop-switch
+
+6.https://www.dlink.com/en/products/go-sw-8ge-8-port-gigabit-metal-unmanaged-desktop-switch
